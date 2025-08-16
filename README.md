@@ -18,4 +18,4 @@ Hi! My name is Mauricio. I’m a 21 years old Paraguayan university student and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioFRC&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MauricioFRC&theme=nord&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MauricioFRC&theme=onedark&hide_border=true)](https://git.io/streak-stats)
